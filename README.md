@@ -6,6 +6,9 @@
 ### Live Dashboard at Novypro [Live_link_Novypro](https://project.novypro.com/zhRi6m)
 
 ## Project Overview:
+![Screenshot 2024-07-26 170044](https://github.com/user-attachments/assets/dc469bb7-addd-44f6-930d-95074e04c96e)
+
+
 This Power BI dashboard provides a comprehensive analysis of the Indian General Elections, comparing the election results of 2014 and 2019. The dashboard focuses on key metrics such as seat distribution, vote margins, and party performance across different constituencies. The main political parties analyzed are the Bharatiya Janata Party (BJP) and the Indian National Congress (INC).
 
 ## About Dataset:
